@@ -41,6 +41,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		01EC671E26FC0A2100283703 /* CarpetaAlejandro */ = {
+			isa = PBXGroup;
+			children = (
+				09A7B38E26FAC97900A95DCF /* AlejandroVC.swift */,
+			);
+			path = CarpetaAlejandro;
+			sourceTree = "<group>";
+		};
 		09A7B36526FAC2BA00A95DCF = {
 			isa = PBXGroup;
 			children = (
@@ -68,7 +76,7 @@
 				09A7B37A26FAC2BA00A95DCF /* ProyectoCompartido.xcdatamodeld */,
 				09A7B38A26FAC83500A95DCF /* TabBar.swift */,
 				09A7B38C26FAC96D00A95DCF /* AnahiVC.swift */,
-				09A7B38E26FAC97900A95DCF /* AlejandroVC.swift */,
+				01EC671E26FC0A2100283703 /* CarpetaAlejandro */,
 			);
 			path = ProyectoCompartido;
 			sourceTree = "<group>";
